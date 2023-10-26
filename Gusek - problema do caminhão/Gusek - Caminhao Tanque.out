@@ -1,0 +1,465 @@
+Problem:    Gusek
+Rows:       125
+Columns:    192 (192 integer, 96 binary)
+Non-zeros:  480
+Status:     INTEGER OPTIMAL
+Objective:  Z = 4060 (MINimum)
+
+   No.   Row name        Activity     Lower bound   Upper bound
+------ ------------    ------------- ------------- -------------
+     1 uso_comp_[C11,P1]
+                                   0                          -0 
+     2 uso_comp_[C11,P2]
+                                   0                          -0 
+     3 uso_comp_[C11,P3]
+                                   0                          -0 
+     4 uso_comp_[C11,P4]
+                                   0                          -0 
+     5 uso_comp_[C21,P1]
+                                   0                          -0 
+     6 uso_comp_[C21,P2]
+                                   0                          -0 
+     7 uso_comp_[C21,P3]
+                                   0                          -0 
+     8 uso_comp_[C21,P4]
+                                   0                          -0 
+     9 uso_comp_[C31,P1]
+                                   0                          -0 
+    10 uso_comp_[C31,P2]
+                                   0                          -0 
+    11 uso_comp_[C31,P3]
+                                   0                          -0 
+    12 uso_comp_[C31,P4]
+                                   0                          -0 
+    13 uso_comp_[C41,P1]
+                                   0                          -0 
+    14 uso_comp_[C41,P2]
+                                   0                          -0 
+    15 uso_comp_[C41,P3]
+                                   0                          -0 
+    16 uso_comp_[C41,P4]
+                                   0                          -0 
+    17 uso_comp_[C51,P1]
+                                   0                          -0 
+    18 uso_comp_[C51,P2]
+                                   0                          -0 
+    19 uso_comp_[C51,P3]
+                                   0                          -0 
+    20 uso_comp_[C51,P4]
+                                   0                          -0 
+    21 uso_comp_[C12,P1]
+                                   0                          -0 
+    22 uso_comp_[C12,P2]
+                                   0                          -0 
+    23 uso_comp_[C12,P3]
+                                   0                          -0 
+    24 uso_comp_[C12,P4]
+                                   0                          -0 
+    25 uso_comp_[C22,P1]
+                                   0                          -0 
+    26 uso_comp_[C22,P2]
+                                   0                          -0 
+    27 uso_comp_[C22,P3]
+                                   0                          -0 
+    28 uso_comp_[C22,P4]
+                                   0                          -0 
+    29 uso_comp_[C32,P1]
+                                   0                          -0 
+    30 uso_comp_[C32,P2]
+                                   0                          -0 
+    31 uso_comp_[C32,P3]
+                                   0                          -0 
+    32 uso_comp_[C32,P4]
+                                   0                          -0 
+    33 uso_comp_[C42,P1]
+                                   0                          -0 
+    34 uso_comp_[C42,P2]
+                                   0                          -0 
+    35 uso_comp_[C42,P3]
+                                   0                          -0 
+    36 uso_comp_[C42,P4]
+                                   0                          -0 
+    37 uso_comp_[C52,P1]
+                                   0                          -0 
+    38 uso_comp_[C52,P2]
+                                   0                          -0 
+    39 uso_comp_[C52,P3]
+                                   0                          -0 
+    40 uso_comp_[C52,P4]
+                                   0                          -0 
+    41 uso_comp_[C13,P1]
+                                   0                          -0 
+    42 uso_comp_[C13,P2]
+                                   0                          -0 
+    43 uso_comp_[C13,P3]
+                                   0                          -0 
+    44 uso_comp_[C13,P4]
+                                   0                          -0 
+    45 uso_comp_[C23,P1]
+                                   0                          -0 
+    46 uso_comp_[C23,P2]
+                                   0                          -0 
+    47 uso_comp_[C23,P3]
+                                   0                          -0 
+    48 uso_comp_[C23,P4]
+                                   0                          -0 
+    49 uso_comp_[C33,P1]
+                                   0                          -0 
+    50 uso_comp_[C33,P2]
+                                   0                          -0 
+    51 uso_comp_[C33,P3]
+                                   0                          -0 
+    52 uso_comp_[C33,P4]
+                                   0                          -0 
+    53 uso_comp_[C43,P1]
+                                   0                          -0 
+    54 uso_comp_[C43,P2]
+                                   0                          -0 
+    55 uso_comp_[C43,P3]
+                                   0                          -0 
+    56 uso_comp_[C43,P4]
+                                   0                          -0 
+    57 uso_comp_[C53,P1]
+                                   0                          -0 
+    58 uso_comp_[C53,P2]
+                                   0                          -0 
+    59 uso_comp_[C53,P3]
+                                   0                          -0 
+    60 uso_comp_[C53,P4]
+                                   0                          -0 
+    61 uso_comp_[C14,P1]
+                                   0                          -0 
+    62 uso_comp_[C14,P2]
+                                   0                          -0 
+    63 uso_comp_[C14,P3]
+                                   0                          -0 
+    64 uso_comp_[C14,P4]
+                                   0                          -0 
+    65 uso_comp_[C24,P1]
+                                   0                          -0 
+    66 uso_comp_[C24,P2]
+                                   0                          -0 
+    67 uso_comp_[C24,P3]
+                                   0                          -0 
+    68 uso_comp_[C24,P4]
+                                   0                          -0 
+    69 uso_comp_[C34,P1]
+                                   0                          -0 
+    70 uso_comp_[C34,P2]
+                                   0                          -0 
+    71 uso_comp_[C34,P3]
+                                   0                          -0 
+    72 uso_comp_[C34,P4]
+                                   0                          -0 
+    73 uso_comp_[C44,P1]
+                                   0                          -0 
+    74 uso_comp_[C44,P2]
+                                   0                          -0 
+    75 uso_comp_[C44,P3]
+                                   0                          -0 
+    76 uso_comp_[C44,P4]
+                                   0                          -0 
+    77 uso_comp_[C54,P1]
+                                   0                          -0 
+    78 uso_comp_[C54,P2]
+                                   0                          -0 
+    79 uso_comp_[C54,P3]
+                                   0                          -0 
+    80 uso_comp_[C54,P4]
+                                   0                          -0 
+    81 uso_comp_[CE1,P1]
+                              -90000                          -0 
+    82 uso_comp_[CE1,P2]
+                                   0                          -0 
+    83 uso_comp_[CE1,P3]
+                                   0                          -0 
+    84 uso_comp_[CE1,P4]
+                                   0                          -0 
+    85 uso_comp_[CE2,P1]
+                                   0                          -0 
+    86 uso_comp_[CE2,P2]
+                                   0                          -0 
+    87 uso_comp_[CE2,P3]
+                                   0                          -0 
+    88 uso_comp_[CE2,P4]
+                              -92000                          -0 
+    89 uso_comp_[CE3,P1]
+                                   0                          -0 
+    90 uso_comp_[CE3,P2]
+                              -85000                          -0 
+    91 uso_comp_[CE3,P3]
+                                   0                          -0 
+    92 uso_comp_[CE3,P4]
+                                   0                          -0 
+    93 uso_comp_[CE4,P1]
+                                   0                          -0 
+    94 uso_comp_[CE4,P2]
+                                   0                          -0 
+    95 uso_comp_[CE4,P3]
+                              -88000                          -0 
+    96 uso_comp_[CE4,P4]
+                                   0                          -0 
+    97 um_prod_por_comp[C11]
+                                   0                           1 
+    98 um_prod_por_comp[C21]
+                                   0                           1 
+    99 um_prod_por_comp[C31]
+                                   0                           1 
+   100 um_prod_por_comp[C41]
+                                   0                           1 
+   101 um_prod_por_comp[C51]
+                                   0                           1 
+   102 um_prod_por_comp[C12]
+                                   0                           1 
+   103 um_prod_por_comp[C22]
+                                   0                           1 
+   104 um_prod_por_comp[C32]
+                                   0                           1 
+   105 um_prod_por_comp[C42]
+                                   0                           1 
+   106 um_prod_por_comp[C52]
+                                   0                           1 
+   107 um_prod_por_comp[C13]
+                                   0                           1 
+   108 um_prod_por_comp[C23]
+                                   0                           1 
+   109 um_prod_por_comp[C33]
+                                   0                           1 
+   110 um_prod_por_comp[C43]
+                                   0                           1 
+   111 um_prod_por_comp[C53]
+                                   0                           1 
+   112 um_prod_por_comp[C14]
+                                   0                           1 
+   113 um_prod_por_comp[C24]
+                                   0                           1 
+   114 um_prod_por_comp[C34]
+                                   0                           1 
+   115 um_prod_por_comp[C44]
+                                   0                           1 
+   116 um_prod_por_comp[C54]
+                                   0                           1 
+   117 um_prod_por_comp[CE1]
+                                   1                           1 
+   118 um_prod_por_comp[CE2]
+                                   1                           1 
+   119 um_prod_por_comp[CE3]
+                                   1                           1 
+   120 um_prod_por_comp[CE4]
+                                   1                           1 
+   121 som_todos_compart[P1]
+                               10000         10000             = 
+   122 som_todos_compart[P2]
+                               15000         15000             = 
+   123 som_todos_compart[P3]
+                               12000         12000             = 
+   124 som_todos_compart[P4]
+                                8000          8000             = 
+   125 Z                        4060                             
+
+   No. Column name       Activity     Lower bound   Upper bound
+------ ------------    ------------- ------------- -------------
+     1 x[P1,C11]    *              0             0               
+     2 x[P2,C11]    *              0             0               
+     3 x[P3,C11]    *              0             0               
+     4 x[P4,C11]    *              0             0               
+     5 x[P1,C21]    *              0             0               
+     6 x[P2,C21]    *              0             0               
+     7 x[P3,C21]    *              0             0               
+     8 x[P4,C21]    *              0             0               
+     9 x[P1,C31]    *              0             0               
+    10 x[P2,C31]    *              0             0               
+    11 x[P3,C31]    *              0             0               
+    12 x[P4,C31]    *              0             0               
+    13 x[P1,C41]    *              0             0               
+    14 x[P2,C41]    *              0             0               
+    15 x[P3,C41]    *              0             0               
+    16 x[P4,C41]    *              0             0               
+    17 x[P1,C51]    *              0             0               
+    18 x[P2,C51]    *              0             0               
+    19 x[P3,C51]    *              0             0               
+    20 x[P4,C51]    *              0             0               
+    21 x[P1,C12]    *              0             0               
+    22 x[P2,C12]    *              0             0               
+    23 x[P3,C12]    *              0             0               
+    24 x[P4,C12]    *              0             0               
+    25 x[P1,C22]    *              0             0               
+    26 x[P2,C22]    *              0             0               
+    27 x[P3,C22]    *              0             0               
+    28 x[P4,C22]    *              0             0               
+    29 x[P1,C32]    *              0             0               
+    30 x[P2,C32]    *              0             0               
+    31 x[P3,C32]    *              0             0               
+    32 x[P4,C32]    *              0             0               
+    33 x[P1,C42]    *              0             0               
+    34 x[P2,C42]    *              0             0               
+    35 x[P3,C42]    *              0             0               
+    36 x[P4,C42]    *              0             0               
+    37 x[P1,C52]    *              0             0               
+    38 x[P2,C52]    *              0             0               
+    39 x[P3,C52]    *              0             0               
+    40 x[P4,C52]    *              0             0               
+    41 x[P1,C13]    *              0             0               
+    42 x[P2,C13]    *              0             0               
+    43 x[P3,C13]    *              0             0               
+    44 x[P4,C13]    *              0             0               
+    45 x[P1,C23]    *              0             0               
+    46 x[P2,C23]    *              0             0               
+    47 x[P3,C23]    *              0             0               
+    48 x[P4,C23]    *              0             0               
+    49 x[P1,C33]    *              0             0               
+    50 x[P2,C33]    *              0             0               
+    51 x[P3,C33]    *              0             0               
+    52 x[P4,C33]    *              0             0               
+    53 x[P1,C43]    *              0             0               
+    54 x[P2,C43]    *              0             0               
+    55 x[P3,C43]    *              0             0               
+    56 x[P4,C43]    *              0             0               
+    57 x[P1,C53]    *              0             0               
+    58 x[P2,C53]    *              0             0               
+    59 x[P3,C53]    *              0             0               
+    60 x[P4,C53]    *              0             0               
+    61 x[P1,C14]    *              0             0               
+    62 x[P2,C14]    *              0             0               
+    63 x[P3,C14]    *              0             0               
+    64 x[P4,C14]    *              0             0               
+    65 x[P1,C24]    *              0             0               
+    66 x[P2,C24]    *              0             0               
+    67 x[P3,C24]    *              0             0               
+    68 x[P4,C24]    *              0             0               
+    69 x[P1,C34]    *              0             0               
+    70 x[P2,C34]    *              0             0               
+    71 x[P3,C34]    *              0             0               
+    72 x[P4,C34]    *              0             0               
+    73 x[P1,C44]    *              0             0               
+    74 x[P2,C44]    *              0             0               
+    75 x[P3,C44]    *              0             0               
+    76 x[P4,C44]    *              0             0               
+    77 x[P1,C54]    *              0             0               
+    78 x[P2,C54]    *              0             0               
+    79 x[P3,C54]    *              0             0               
+    80 x[P4,C54]    *              0             0               
+    81 x[P1,CE1]    *          10000             0               
+    82 x[P2,CE1]    *              0             0               
+    83 x[P3,CE1]    *              0             0               
+    84 x[P4,CE1]    *              0             0               
+    85 x[P1,CE2]    *              0             0               
+    86 x[P2,CE2]    *              0             0               
+    87 x[P3,CE2]    *              0             0               
+    88 x[P4,CE2]    *           8000             0               
+    89 x[P1,CE3]    *              0             0               
+    90 x[P2,CE3]    *          15000             0               
+    91 x[P3,CE3]    *              0             0               
+    92 x[P4,CE3]    *              0             0               
+    93 x[P1,CE4]    *              0             0               
+    94 x[P2,CE4]    *              0             0               
+    95 x[P3,CE4]    *          12000             0               
+    96 x[P4,CE4]    *              0             0               
+    97 y[P1,C11]    *              0             0             1 
+    98 y[P2,C11]    *              0             0             1 
+    99 y[P3,C11]    *              0             0             1 
+   100 y[P4,C11]    *              0             0             1 
+   101 y[P1,C21]    *              0             0             1 
+   102 y[P2,C21]    *              0             0             1 
+   103 y[P3,C21]    *              0             0             1 
+   104 y[P4,C21]    *              0             0             1 
+   105 y[P1,C31]    *              0             0             1 
+   106 y[P2,C31]    *              0             0             1 
+   107 y[P3,C31]    *              0             0             1 
+   108 y[P4,C31]    *              0             0             1 
+   109 y[P1,C41]    *              0             0             1 
+   110 y[P2,C41]    *              0             0             1 
+   111 y[P3,C41]    *              0             0             1 
+   112 y[P4,C41]    *              0             0             1 
+   113 y[P1,C51]    *              0             0             1 
+   114 y[P2,C51]    *              0             0             1 
+   115 y[P3,C51]    *              0             0             1 
+   116 y[P4,C51]    *              0             0             1 
+   117 y[P1,C12]    *              0             0             1 
+   118 y[P2,C12]    *              0             0             1 
+   119 y[P3,C12]    *              0             0             1 
+   120 y[P4,C12]    *              0             0             1 
+   121 y[P1,C22]    *              0             0             1 
+   122 y[P2,C22]    *              0             0             1 
+   123 y[P3,C22]    *              0             0             1 
+   124 y[P4,C22]    *              0             0             1 
+   125 y[P1,C32]    *              0             0             1 
+   126 y[P2,C32]    *              0             0             1 
+   127 y[P3,C32]    *              0             0             1 
+   128 y[P4,C32]    *              0             0             1 
+   129 y[P1,C42]    *              0             0             1 
+   130 y[P2,C42]    *              0             0             1 
+   131 y[P3,C42]    *              0             0             1 
+   132 y[P4,C42]    *              0             0             1 
+   133 y[P1,C52]    *              0             0             1 
+   134 y[P2,C52]    *              0             0             1 
+   135 y[P3,C52]    *              0             0             1 
+   136 y[P4,C52]    *              0             0             1 
+   137 y[P1,C13]    *              0             0             1 
+   138 y[P2,C13]    *              0             0             1 
+   139 y[P3,C13]    *              0             0             1 
+   140 y[P4,C13]    *              0             0             1 
+   141 y[P1,C23]    *              0             0             1 
+   142 y[P2,C23]    *              0             0             1 
+   143 y[P3,C23]    *              0             0             1 
+   144 y[P4,C23]    *              0             0             1 
+   145 y[P1,C33]    *              0             0             1 
+   146 y[P2,C33]    *              0             0             1 
+   147 y[P3,C33]    *              0             0             1 
+   148 y[P4,C33]    *              0             0             1 
+   149 y[P1,C43]    *              0             0             1 
+   150 y[P2,C43]    *              0             0             1 
+   151 y[P3,C43]    *              0             0             1 
+   152 y[P4,C43]    *              0             0             1 
+   153 y[P1,C53]    *              0             0             1 
+   154 y[P2,C53]    *              0             0             1 
+   155 y[P3,C53]    *              0             0             1 
+   156 y[P4,C53]    *              0             0             1 
+   157 y[P1,C14]    *              0             0             1 
+   158 y[P2,C14]    *              0             0             1 
+   159 y[P3,C14]    *              0             0             1 
+   160 y[P4,C14]    *              0             0             1 
+   161 y[P1,C24]    *              0             0             1 
+   162 y[P2,C24]    *              0             0             1 
+   163 y[P3,C24]    *              0             0             1 
+   164 y[P4,C24]    *              0             0             1 
+   165 y[P1,C34]    *              0             0             1 
+   166 y[P2,C34]    *              0             0             1 
+   167 y[P3,C34]    *              0             0             1 
+   168 y[P4,C34]    *              0             0             1 
+   169 y[P1,C44]    *              0             0             1 
+   170 y[P2,C44]    *              0             0             1 
+   171 y[P3,C44]    *              0             0             1 
+   172 y[P4,C44]    *              0             0             1 
+   173 y[P1,C54]    *              0             0             1 
+   174 y[P2,C54]    *              0             0             1 
+   175 y[P3,C54]    *              0             0             1 
+   176 y[P4,C54]    *              0             0             1 
+   177 y[P1,CE1]    *              1             0             1 
+   178 y[P2,CE1]    *              0             0             1 
+   179 y[P3,CE1]    *              0             0             1 
+   180 y[P4,CE1]    *              0             0             1 
+   181 y[P1,CE2]    *              0             0             1 
+   182 y[P2,CE2]    *              0             0             1 
+   183 y[P3,CE2]    *              0             0             1 
+   184 y[P4,CE2]    *              1             0             1 
+   185 y[P1,CE3]    *              0             0             1 
+   186 y[P2,CE3]    *              1             0             1 
+   187 y[P3,CE3]    *              0             0             1 
+   188 y[P4,CE3]    *              0             0             1 
+   189 y[P1,CE4]    *              0             0             1 
+   190 y[P2,CE4]    *              0             0             1 
+   191 y[P3,CE4]    *              1             0             1 
+   192 y[P4,CE4]    *              0             0             1 
+
+Integer feasibility conditions:
+
+KKT.PE: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+KKT.PB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+End of output
